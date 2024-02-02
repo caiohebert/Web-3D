@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal gun (Rick and Morty)
+* source:	https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee
+* author:	kreems (https://sketchfab.com/kreems)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal gun (Rick and Morty)" (https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee) by kreems (https://sketchfab.com/kreems) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

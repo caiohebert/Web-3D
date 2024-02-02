@@ -1,0 +1,693 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 54877,
+      "max": [
+        2.5555777549743652,
+        2.3137619495391846,
+        4.367619514465332
+      ],
+      "min": [
+        -2.571639060974121,
+        -4.368678569793701,
+        -2.211273670196533
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 658524,
+      "componentType": 5126,
+      "count": 54877,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 54877,
+      "max": [
+        1.0,
+        0.9999992847442627,
+        0.9999985694885254,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 54877,
+      "max": [
+        0.8185489177703857,
+        0.8090742230415344
+      ],
+      "min": [
+        0.00029486100538633764,
+        0.00029486100538633764
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 321648,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1317048,
+      "componentType": 5126,
+      "count": 1549,
+      "max": [
+        2.0211315155029297,
+        0.804523229598999,
+        2.817964553833008
+      ],
+      "min": [
+        -2.0371925830841064,
+        0.8030898571014404,
+        -1.2468996047973633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1335636,
+      "componentType": 5126,
+      "count": 1549,
+      "max": [
+        0.7131690979003906,
+        -0.7009919881820679,
+        0.7131690979003906
+      ],
+      "min": [
+        -0.7131690979003906,
+        -1.0,
+        -0.7127151489257813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 878032,
+      "componentType": 5126,
+      "count": 1549,
+      "max": [
+        0.7688120603561401,
+        0.7127143144607544,
+        -0.4451260566711426,
+        1.0
+      ],
+      "min": [
+        0.2638275623321533,
+        -0.7127144932746887,
+        -0.8813915848731995,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 439016,
+      "componentType": 5126,
+      "count": 1549,
+      "max": [
+        0.9997051358222961,
+        0.6398853659629822
+      ],
+      "min": [
+        0.73714679479599,
+        0.3773270547389984
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1286592,
+      "componentType": 5125,
+      "count": 8880,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1354224,
+      "componentType": 5126,
+      "count": 22456,
+      "max": [
+        1.84760320186615,
+        0.8045229315757751,
+        2.728975772857666
+      ],
+      "min": [
+        -0.43906792998313904,
+        0.693437397480011,
+        -0.5789002776145935
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1623696,
+      "componentType": 5126,
+      "count": 22456,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 902816,
+      "componentType": 5126,
+      "count": 22456,
+      "max": [
+        0.9995754361152649,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9995999336242676,
+        -1.0,
+        -0.999999463558197,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 451408,
+      "componentType": 5126,
+      "count": 22456,
+      "max": [
+        0.838295042514801,
+        0.8081662058830261
+      ],
+      "min": [
+        0.00029486100538633764,
+        0.00029486100538633764
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1322112,
+      "componentType": 5125,
+      "count": 128292,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1893168,
+      "componentType": 5126,
+      "count": 4046,
+      "max": [
+        2.0355002880096436,
+        0.6789051294326782,
+        2.825793743133545
+      ],
+      "min": [
+        -2.058671236038208,
+        0.6708499193191528,
+        -1.2612693309783936
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1941720,
+      "componentType": 5126,
+      "count": 4046,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999939203262329,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1262112,
+      "componentType": 5126,
+      "count": 4046,
+      "max": [
+        0.642622709274292,
+        0.9999991059303284,
+        0.9977442026138306,
+        1.0
+      ],
+      "min": [
+        -0.9999105930328369,
+        -0.9999998807907104,
+        -0.5895835757255554,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 631056,
+      "componentType": 5126,
+      "count": 4046,
+      "max": [
+        0.9854576587677002,
+        0.9302124977111816
+      ],
+      "min": [
+        0.44243404269218445,
+        0.6722383499145508
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1835280,
+      "componentType": 5125,
+      "count": 23376,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Smoggybeard (https://sketchfab.com/Smoggybeard)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pocket-watch-acb7d4569b52426a8f0cd9266814ae9c",
+      "title": "Pocket Watch"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1928784,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 663424,
+      "byteOffset": 1928784,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1990272,
+      "byteOffset": 2592208,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1326848,
+      "byteOffset": 4582480,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5909328,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Watch_Base_Metal_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Watch_Base_Metal_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Watch_Base_Metal_normal.png"
+    },
+    {
+      "uri": "textures/Watch_Face_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Watch_Face_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Watch_Face_normal.png"
+    },
+    {
+      "uri": "textures/Watch_Hands_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Watch_Hands_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Watch_Hands_normal.png"
+    },
+    {
+      "uri": "textures/Glass_baseColor.png"
+    },
+    {
+      "uri": "textures/Glass_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Glass_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Watch_Base_Metal",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Watch_Face",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Watch_Hands",
+      "normalTexture": {
+        "index": 8
+      },
+      "occlusionTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Glass",
+      "normalTexture": {
+        "index": 11
+      },
+      "occlusionTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9
+        },
+        "metallicRoughnessTexture": {
+          "index": 10
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pocket_Watch_Watch_Base_Metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pocket_Watch_Watch_Face_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pocket_Watch_Watch_Hands_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pocket_Watch_Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "578083063ff146af94e879a634ce37ed.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Pocket_Watch"
+    },
+    {
+      "mesh": 0,
+      "name": "Pocket_Watch_Watch_Base_Metal_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Pocket_Watch_Watch_Face_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Pocket_Watch_Watch_Hands_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Pocket_Watch_Glass_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    }
+  ]
+}
