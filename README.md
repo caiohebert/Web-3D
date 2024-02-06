@@ -23,7 +23,7 @@ Presente em todos os episódios da série, a arma de Portais do Rick é com cert
 
 
 ## ℹ️ Informações
-Os modelos foram baixados do sketchfab e carregados com o GLTF Loader.
+Os modelos foram baixados do _sketchfab_ e carregados com o _GLTF Loader_.
 
 Cada objeto possui 2 controladores:
 * `Controlador 1`: altera velocidade de rotação do objeto.
