@@ -32,7 +32,7 @@ Cada objeto possui 2 controladores:
 ## 💾 Tecnologias utilizadas
 * HTML
 * CSS
-* Javascript🔪💻
+* Javascript
 * ThreeJS
 
 ## 🛠️ Rode o site!
