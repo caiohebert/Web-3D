@@ -40,7 +40,7 @@ Cada objeto possui 2 controladores:
 
 Antes de começar, você vai precisar ter o [Python](https://www.python.org/m) instalado em sua máquina.
 
-### 🎲 Rodando o Código
+### Rodando o Código
 
 ```bash
 # Clone este repositório
